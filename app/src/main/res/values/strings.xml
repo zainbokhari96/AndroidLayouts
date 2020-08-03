@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Coffee</string>
+    <string name="tab_text_2">Hotels</string>
+    <string name="tab_text_3">Offers</string>
+
+
+    <string-array name="title">
+        <item>Expresso Coffee </item>
+        <item>Golaria Jeans </item>
+        <item>Butlers Cafe </item>
+        <item>Mocca Cafe </item>
+        <item>Jazzz Cafe </item>
+    </string-array>
+
+    <string-array name="Sub_title">
+        <item>Discount Type : 10 % </item>
+        <item>Discount Type : 10 % </item>
+        <item>Discount Type : 10 % </item>
+        <item>Discount Type : 10 % </item>
+        <item>Discount Type : 10 % </item>
+    </string-array>
+
+
+</resources>
