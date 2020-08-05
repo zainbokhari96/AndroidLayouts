@@ -33,7 +33,6 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.MyViewHolder
         View view =layoutInflater.inflate(R.layout.design_file,parent,false);
         return new MyViewHolder(view);
 
-
     }
 
     @Override
@@ -42,8 +41,6 @@ public class AdapterClass extends RecyclerView.Adapter<AdapterClass.MyViewHolder
         holder.imageView.setImageResource(images[position]);
         holder.titleText.setText(title[position]);
         holder.subTitle.setText(subtitle[position]);
-
-
 
     }
 
